@@ -14,7 +14,7 @@
 
 terraform {
   backend "gcs" {
-      bucket = "bielski-boa-pvt-clusters-tfstate"
+      bucket = "bielski-boa-pvt-clusters-tfstate2"
       prefix = "bank-of-anthos"
   }
   required_providers {
