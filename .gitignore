@@ -209,4 +209,5 @@ override.tf.json
 venv-*
 
 # go for ci
-go/
+go/.envrc
+.envrc
